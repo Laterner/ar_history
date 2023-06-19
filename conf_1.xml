@@ -1,0 +1,17 @@
+﻿<!--?xml version=”1.0” encoding=”UTF-8”?-->
+
+
+<conteiner>
+    <info id="0">
+        <title>Дом</title>
+        <description>
+            Просто дом
+        </description>
+    </info>
+    <info id="1">
+        <title>Дом</title>
+        <description>
+            Просто дом, что ещё нужно?
+        </description>
+    </info>
+</conteiner>

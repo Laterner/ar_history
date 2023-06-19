@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RefMtuci
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4791646893727021935
+  m_GuidHigh: 8456119392552141999
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5113647896175550220
+      m_GuidHigh: 11459247544444109732
+    m_SerializedTextureGuid:
+      m_GuidLow: 15335930456224516996
+      m_GuidHigh: 5804898916914094042
+    m_Size: {x: 0.1, y: 0.07476562}
+    m_SpecifySize: 1
+    m_Name: 2
+    m_Texture: {fileID: 2800000, guid: 275b4b842b7fd4d4dadfb62bcf248f50, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4889594898496581464
+      m_GuidHigh: 255753116805888690
+    m_SerializedTextureGuid:
+      m_GuidLow: 11431461847152361300
+      m_GuidHigh: 7056052234771876377
+    m_Size: {x: 0.1, y: 0.1337513}
+    m_SpecifySize: 1
+    m_Name: photo_2023-06-14_11-34-29
+    m_Texture: {fileID: 2800000, guid: c6f27f54b5fb9ea419ca2d7a1f22ec61, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4920167099952892015
+      m_GuidHigh: 2460474629266048913
+    m_SerializedTextureGuid:
+      m_GuidLow: 739766305770287025
+      m_GuidHigh: 8681748140911674890
+    m_Size: {x: 0.1, y: 0.1337513}
+    m_SpecifySize: 1
+    m_Name: photo_2023-06-14_11-34-33
+    m_Texture: {fileID: 2800000, guid: 203dafb12d890a440ac672b0efc37b78, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4800722599136643633
+      m_GuidHigh: 2621159818461549726
+    m_SerializedTextureGuid:
+      m_GuidLow: 7625815248969523864
+      m_GuidHigh: 4562573755529430890
+    m_Size: {x: 0.1, y: 0.1337513}
+    m_SpecifySize: 1
+    m_Name: photo_2023-06-14_11-34-36
+    m_Texture: {fileID: 2800000, guid: cd95e298569069d46a07da37a884513f, type: 3}
